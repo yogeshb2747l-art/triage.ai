@@ -1,0 +1,6 @@
+{
+  "name": "TriageAI - AI Symptom Checker & Clinical Triage Assistant",
+  "description": "Conversational symptom intake, red-flag emergency rule engine, 4-tier triage urgency classification, jargon-free explanations, and live doctor escalation with clinical handover summaries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
